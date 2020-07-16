@@ -11,6 +11,7 @@ git clone https://github.com/fraanrosi/SBB-Arduino-Sensor.git
 * Conectar el arduino a la computadora.
 * Comprobar que el IDE esta configurado para este "Arduino Pro Micro"
 * Hacer upload (flash the arduino)
+* [Impresión 3D de la caja](https://www.thingiverse.com/thing:1657153)
 
 
 ## Diagrama de conexión 
